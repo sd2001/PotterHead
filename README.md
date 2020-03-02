@@ -9,4 +9,4 @@ Mainly the concept of seperating the foreground and the background is used using
 Using mask we add both the Morphological transformations.
 Incorpoating the bitwise_AND feature we just add the background and the foreground together in a single frame and show it to the user.
 
-We also generate a soft copy of the avi video being produced in file using fourcc commands.
+We also write the .avi video to the local computer using fourcc commands.
